@@ -1,2 +1,2 @@
 # Demo-Repo
-This is a demo repositary
+This is a demo Repositary.
